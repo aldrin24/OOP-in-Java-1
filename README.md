@@ -7,7 +7,7 @@ narrator: US English Female
 comment:  Programming II is an object oriented programming course based on Java programming language. It covers the basics of programming in Java and extends to object oriented principles.
 -->
 
-# Programming II (in Java)
+# Object Oriented Programming (in Java)
 
 ------------------------------------
 
